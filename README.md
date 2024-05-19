@@ -1,2 +1,2 @@
-# Celestial Bodies Database - freeCodeCamp
-This project is required for the Relational Database Certification from freeCodeCamp.
+# Relational Databases - freeCodeCamp
+These are the required projects for the Relational Database Certification from freeCodeCamp.
